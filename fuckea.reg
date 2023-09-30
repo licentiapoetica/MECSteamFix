@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\link2ea]
+"URL Protocol"=""
+[HKEY_CLASSES_ROOT\link2ea]
+[HKEY_CLASSES_ROOT\link2ea\shell\open]
+[HKEY_CLASSES_ROOT\link2ea\shell\open\command]
+@="\"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Mirrors Edge Catalyst\\MirrorsEdgeCatalyst.exe\" \"%1\""
